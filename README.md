@@ -2,8 +2,8 @@
 
 # Yandex.Music Desktop (unofficial)
 
-<img src="https://ibb.co/kRmHcq" alt="image" border="0">
-<img src="https://ibb.co/mQ2JiV" alt="image" border="0">
+<img src="https://image.ibb.co/iFbuOV/screen1.png" alt="image" border="0">
+<img src="https://image.ibb.co/iSZ9qA/screen2.png" alt="image" border="0">
 
 A modern, simple, desktop client for Yandex.Music. Works in Ukraine also.
 
