@@ -9,4 +9,14 @@ A modern, simple, desktop client for Yandex.Music. Works in Ukraine also.
 
 # Download
 
-You can find downloads <a href=""><b>here</b></a>. 
+You can find downloads <a href=""><b>here</b></a>. (Coming soon)
+
+### Run
+
+```
+$ npm install && npm start
+```
+
+## License
+
+MIT
