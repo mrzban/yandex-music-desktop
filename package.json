@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Mark Vorotyntsev <mrzban@gmail.com>",
   "description": "An elegant desktop version of Yandex.Music.",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "homepage": "",
   "author": {
     "name": "Mark Vorotyntsev",
@@ -19,7 +19,7 @@
   "main": "./main.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mrzban/yandex-music-desktop"
   },
   "build": {
     "appId": "desktop.yandex.music",
@@ -43,7 +43,8 @@
       "icon": "app/build/",
       "target": [
         "dir",
-        "deb"
+        "deb",
+        "snap"
       ],
     "synopsis": "Yandex Music desktop app",
 	"description": "Yandex.Music is an unofficial .",
