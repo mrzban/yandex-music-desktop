@@ -1,11 +1,12 @@
 
 
-# Desktop Messenger
+# Yandex.Music Desktop (unofficial)
 
-<img src="https://preview.ibb.co/gZWYQ7/image.png" alt="image" border="0">
+<img src="https://ibb.co/kRmHcq" alt="image" border="0">
+<img src="https://ibb.co/mQ2JiV" alt="image" border="0">
 
-A modern, simple, desktop client for Facebook Messenger.
+A modern, simple, desktop client for Yandex.Music. Works in Ukraine also.
 
 # Download
 
-You can find downloads <a href="https://github.com/B-0-B-B-Y/desktop-facebook-messenger/releases"><b>here</b></a>.
+You can find downloads <a href=""><b>here</b></a>. 
