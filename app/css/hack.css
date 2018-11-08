@@ -1,0 +1,116 @@
+
+
+body > img {
+  display: none !important;
+}
+
+body > div.page-root.page-root_no-player.deco-pane-back > div.centerblock-wrapper.deco-pane > div.centerblock > div > div > div.page-search__snippet.page-search__videos.serp-snippet.serp-snippet_compact{
+  display: none !important;
+}
+
+.layout_narrow .centerblock-wrapper{
+  width: 90% !important;
+  margin-left: 5% !important;
+  margin-right: 0 !important;
+}
+
+.centerblock-wrapper {
+  width: 90% !important;
+  margin-left: 5% !important;
+  margin-right: 0 !important;
+}
+
+.d-overhead {
+  display: none !important;
+}
+
+.bar-below,
+bar-below_plus {
+  display: none !important;
+}
+
+.sidebar__placeholder {
+  display: none !important;
+}
+
+.layout_narrow.centerblock-wrapper {
+  margin-right: 0px !important;
+}
+
+
+.ads-block.smalladv.ads-block_search{
+  display: none !important;
+}
+
+.ads-block__no-ads{
+  display: none !important;
+}
+
+.footer-app-install.deco-pane-secondary{
+  display: none !important;
+
+}
+
+.notify__message.deco-tooltip_notify.notify_shown{
+  display: none !important;
+}
+
+
+
+
+/* .centerblock-wrapper.deco-pane{
+  background: black;
+} */
+
+
+
+/* .head__wrap {
+  background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%) !important;
+ background-blend-mode: multiply !important;
+} */
+
+
+
+/* logo */
+/* .d-logo__ru {
+  background-image: none !important ;
+
+  display: inline-block;
+  
+
+  -webkit-mask: url(https://music.yandex.ru/i/BxxJQ6PqSpIWUPz6L1lu6pMBF6M.svg) no-repeat 50% 50% !important;
+  -webkit-mask-size: cover !important;
+  
+  background: linear-gradient(to right, #c02425, #f0cb35) !important;
+} */
+
+
+
+/* Fonts */
+
+/* .theme-white .typo-nav_contrast{
+  color: #f0cb35 !important;
+}
+
+.theme-white .deco-link, body .local-theme-white.deco-link, body .local-theme-white .deco-link{
+  color: white !important
+} */
+
+
+
+
+/* .icon-theme-white .d-icon_play,
+body .local-icon-theme-white .d-icon_play,
+body .local-icon-theme-white.d-icon_play {
+  background-image: none !important;
+
+  display: inline-block;
+
+
+  -webkit-mask: url(https://music.yandex.ru/i/0iiuwcQz70RZRU4QytdIIQlzKXc.svg) no-repeat 50% 50% !important;
+  -webkit-mask-size: cover !important;
+
+  background: linear-gradient(to right, #f83600 0%, #f9d423 100%) !important;
+
+
+} */

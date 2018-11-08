@@ -1,0 +1,71 @@
+{
+  "name": "desktop-yandex-music",
+  "version": "0.1.0",
+  "author": "Mark Vorotyntsev <mrzban@gmail.com>",
+  "description": "An elegant desktop version of Yandex.Music.",
+  "license": "GPL-3.0",
+  "homepage": "",
+  "author": {
+    "name": "Mark Vorotyntsev",
+    "email": "mrzban@gmail.com",
+    "url": ""
+  },
+  "keywords": [
+    "desktop",
+    "mp3",
+    "music",
+    "player"
+  ],
+  "main": "./main.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "build": {
+    "appId": "desktop.yandex.music",
+    "productName": "yandex_music_desktop",
+    "publish": "github",
+    "extraFiles": {
+      "from": "./util",
+      "to": "./util"
+    },
+    "mac": {
+      "category": "Network",
+      "icon": "app/build/icon.icns"
+    },
+    "win": {
+      "target": "NSIS",
+      "icon": "app/build/icon.ico"
+    },
+    "linux": {
+      "category": "Network",
+      "executableName": "Yandex Music Desktop",
+      "icon": "app/build/",
+      "target": [
+        "dir",
+        "deb"
+      ],
+    "synopsis": "Yandex Music desktop app",
+	"description": "Yandex.Music is an unofficial .",
+    "category": "Media;Player"
+    }
+  },
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder -mlw",
+    "dist-lin": "electron-builder --linux",
+    "dist-mac": "electron-builder --mac",
+    "dist-win": "electron-builder --win",
+    "ship-lin": "electron-builder --linux -p always",
+    "ship-mac": "electron-builder --mac -p always",
+    "ship-win": "electron-builder --win -p always",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "devDependencies": {
+    "electron": "^3.0.4",
+    "electron-builder": "^20.28.4"
+  },
+  "dependencies": {
+    "electron-updater": "^3.0.4"
+  }
+}
