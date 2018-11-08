@@ -1,6 +1,6 @@
 
 
-# Yandex.Music Desktop (unofficial)
+# Yandex.Music Desktop (unofficial) <img src="app/build/icon.png" width="60">
 
 <img src="https://image.ibb.co/iFbuOV/screen1.png" alt="image" border="0">
 <img src="https://image.ibb.co/iSZ9qA/screen2.png" alt="image" border="0">
